@@ -1,1 +1,1 @@
-# Integration-Project-In Integration technique, we are going to accept the vital signals hypothetically.  After we are hiding the personal
+# Integration-Project-In Integration technique, we are going to accept the vital signals hypothetically and display the details about the customer whether the customers vital signals are in range or not. To fetch the data we have set a password for the user . If password is attempted wrong 5 times than we hide the personal data of the customer. 
